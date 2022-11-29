@@ -39,7 +39,7 @@ This project is built with vite.
 ## Docker compose
 
 - docker-compose -f arkose-stack.yml build # build
-- docker-compose -f arkose-stack.yml run -d # run in background
+- docker-compose -f arkose-stack.yml up -d # run in background
 
 
 - 
