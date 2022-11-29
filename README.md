@@ -35,3 +35,11 @@ This project is built with vite.
 - `yarn dev` - launch local development server
 - `yarn build` - build for production in `dist/`
 - `yarn preview` - preview production build locally
+
+## Docker compose
+
+- docker-compose -f arkose-stack.yml build # build
+- docker-compose -f arkose-stack.yml run -d # run in background
+
+
+- 
